@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Gabe's files
+api_keys.py
+trash
+playground.py
+ToDo.md
