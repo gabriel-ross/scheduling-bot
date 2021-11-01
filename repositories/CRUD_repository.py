@@ -1,0 +1,3 @@
+
+class CRUDRepository(object):
+    pass
