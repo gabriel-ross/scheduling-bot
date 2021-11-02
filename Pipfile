@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 discord = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
